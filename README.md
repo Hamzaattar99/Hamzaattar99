@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza
-- 👀 I’m interested in back-end and I love C++ ;
-- 🌱 I’m currently learning C++ .
+- 👀 I’m interested in back-end and I'm into C++/C# ;
+- 🌱 I’m currently improving C++/C# .
 - 📫 How to reach me by my email (hamzahusam2050@gmail.com)
 
 <!---
